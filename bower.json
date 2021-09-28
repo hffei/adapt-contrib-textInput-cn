@@ -1,0 +1,17 @@
+{
+  "name": "adapt-contrib-textInput",
+  "version": "4.2.0cn",
+  "framework": ">=5.8",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-textInput",
+  "bugs": "https://github.com/adaptlearning/adapt-contrib-textInput/issues",
+  "component" : "textinput",
+  "targetAttribute": "_textinput",
+  "displayName" : "填空题",
+  "description": "一个问题组件，允许学习者根据问题输入文本。",
+  "main": "/js/adapt-contrib-textInput.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPL-3.0"
+}
